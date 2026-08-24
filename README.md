@@ -14,6 +14,7 @@ This project was completed as part of a Data Technician Bootcamp and demonstrate
 ## Skills Demonstrated
 
 ### Excel Formulas & Functions
+
 Used a range of Excel functions to manipulate and analyse data:
 
 - `SUM()` for calculating total sales and commission values.
@@ -26,9 +27,9 @@ Used a range of Excel functions to manipulate and analyse data:
 - `COUNTIF()` for customer demographic analysis.
 - `MAX()` for identifying highest values.
 - `IF()` statements for conditional logic.
-- `SWITCH()` for categorising products by sales volume.
 
 ### Data Manipulation
+
 - Converted raw datasets into structured Excel Tables.
 - Applied filters to analyse subsets of data.
 - Sorted data in ascending and descending order.
@@ -36,14 +37,18 @@ Used a range of Excel functions to manipulate and analyse data:
 - Worked with retail, customer, product, and bike sales datasets.
 
 ### PivotTables
+
 Created PivotTables to:
+
 - Summarise sales performance by country, age group, gender, and product.
 - Compare sales across multiple dimensions.
 - Identify profitable markets and customer segments.
 - Support dashboard creation and reporting.
 
 ### Data Visualisation
+
 Built and customised:
+
 - Pivot Charts
 - Line Charts
 - Stacked Column Charts
@@ -52,7 +57,9 @@ Built and customised:
 Used chart formatting, labels, legends, and axis customisation to improve readability and presentation quality.
 
 ### Conditional Formatting
+
 Applied conditional formatting to:
+
 - Highlight high and low values.
 - Visualise performance differences.
 - Improve dashboard readability.
@@ -61,29 +68,34 @@ Applied conditional formatting to:
 ## Key Analysis Completed
 
 ### Retail Sales Analysis
+
 - Calculated total and average commissions.
 - Analysed customer demographics.
 - Compared spending patterns by gender.
 - Filtered and sorted customer data for insight generation.
 
 ### Customer Demographics
+
 - Counted male and female customers using conditional formulas.
 - Calculated average age by demographic group.
 - Evaluated average customer spend by gender.
+- Created summary tables to compare demographic characteristics.
 
 ### Bike Sales Analysis
+
 - Created PivotTables to analyse sales by country, age group, and gender.
 - Identified profitable markets and customer segments.
 - Produced charts and visual reports to communicate findings.
+- Applied conditional formatting to support trend analysis.
 
-### Product Sales Categorisation
-- Used the `SWITCH()` function to classify products as:
-  - High Sales
-  - Medium Sales
-  - Low Sales
-- Built PivotTables summarising sales by county and product category.
+### Product Sales Analysis
+
+- Analysed regional sales performance by county and product.
+- Created PivotTables to summarise sales volumes.
+- Compared product performance across different locations.
 
 ## Tools Used
+
 - Microsoft Excel
 - PivotTables
 - Pivot Charts
@@ -92,7 +104,9 @@ Applied conditional formatting to:
 - Data Cleaning & Transformation Techniques
 
 ## Learning Outcomes
+
 Through this project, I strengthened my ability to:
+
 - Analyse business and retail datasets.
 - Apply Excel formulas and logical functions effectively.
 - Build PivotTables and visual reports.
@@ -101,4 +115,4 @@ Through this project, I strengthened my ability to:
 
 ---
 
-**Skills:** Excel • Data Analysis • PivotTables • Pivot Charts • Conditional Formatting • Data Cleaning • Business Intelligence • VLOOKUP • SUMIF • AVERAGEIF • SWITCH • Reporting • Data Visualisation
+**Skills:** Excel • Data Analysis • PivotTables • Pivot Charts • Conditional Formatting • Data Cleaning • Data Visualisation • VLOOKUP • SUMIF • AVERAGEIF • Reporting • Business Intelligence
